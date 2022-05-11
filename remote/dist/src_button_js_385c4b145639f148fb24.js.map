@@ -1,0 +1,1 @@
+{"version":3,"file":"src_button_js_385c4b145639f148fb24.js","mappings":";;;;;;;;;;;;;AAEA,6BAAe,sCAAW;EACxB,oBAAO,8DAAP;AACD","sources":["webpack://remote/./src/button.js"],"sourcesContent":["\n\nexport default function() {\n  return <div>我是 remote button</div>\n}"],"names":[],"sourceRoot":""}
